@@ -1,2 +1,2 @@
 # Loan-Default-Prediction
-This is a technical assessment from a company for predicting whether the applicant will run off with the debt or will they pay it back or not.
+Run the notebook file on Jupyter or open the html file on your web browser. 
